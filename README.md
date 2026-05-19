@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Security%20Enthusiast%20%7C%20CTF%20Player%20%7C%20Always%20Learning&descAlignY=55&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7f77dd&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&desc=Security%20Enthusiast%20|%20CTF%20Player&descAlignY=75)![Header](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Security%20Enthusiast%20%7C%20CTF%20Player%20%7C%20Always%20Learning&descAlignY=55&descColor=ffffff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-C4937A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuradlinauji)
 [![Discord](https://img.shields.io/badge/Discord-Dietgucc1-C4937A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1293520192646811769)
