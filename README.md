@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Security%20Enthusiast%20%7C%20CTF%20Player%20%7C%20Always%20Learning&descAlignY=55&descColor=ffffff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-C4937A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuradlinauji)
-[![GitHub followers](https://img.shields.io/github/followers/Dietgucc1?style=flat&color=C4937A)](https://github.com/Dietgucc1)
+[![Discord](https://img.shields.io/badge/Discord-Dietgucc1-C4937A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1293520192646811769)
 
 </div>
 
@@ -9,17 +9,17 @@
 
 ### 👩‍💻 About Me
 
-- 🔐 Interested in web security, forensics & reverse engineering  
+- 🔐 Interested in web security, cryptography, Artificial Intelligence, Forensics & Reverse Engineering 
 - 🎯 Active on TryHackMe & HackTheBox  
 - 📚 CompTIA Security+ certified · Currently pursuing CAI  
-- 💡 Open to internships and junior security roles  
+- 💡 Open to junior security/ IT roles  
 
 ---
 
 ### 🌐 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,bash,java,cpp" />
 </p>
 
 ---
@@ -46,8 +46,7 @@
 ### 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dietgucc1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=FAF8F4&title_color=C4937A&icon_color=C4937A&text_color=2C2520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=rose_pine&hide_border=true&bg_color=FAF8F4&title_color=C4937A&text_color=2C2520" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dietgucc1&theme=tokyo-night&hide_border=true&color=C4937A&line=C4937A&point=C4937A" />
 </p>
 
 ---
