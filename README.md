@@ -27,7 +27,7 @@
 ### 🛠 Tools
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,vim" />
+ <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,vim,digitalocean" />
 </p>
 
 ---
