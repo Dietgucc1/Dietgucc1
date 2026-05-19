@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="500" height="365" alt="image" src="https://github.com/user-attachments/assets/d6ba8bdd-5b9b-4207-9400-c0f5670feefa" />
+
+
 <!--
 **Dietgucc1/Dietgucc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
