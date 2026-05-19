@@ -43,12 +43,14 @@
 
 ---
 
-### 📈 My Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dietgucc1&theme=tokyo-night&hide_border=true&color=C4937A&line=C4937A&point=C4937A" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
+</picture>
 ---
 
 <div align="center">
