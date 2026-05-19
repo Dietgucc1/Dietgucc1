@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<img width="500" height="365" alt="image" src="https://github.com/user-attachments/assets/d6ba8bdd-5b9b-4207-9400-c0f5670feefa" />
-<div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Security%20Enthusiast%20%7C%20CTF%20Player%20%7C%20Always%20Learning&descAlignY=55&descColor=ffffff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-C4937A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuradlinauji)
@@ -58,7 +53,7 @@
 ---
 
 <div align="center">
-  <i>"i just wanna be better"</i>
+  <i>"A winner is a loser who tried for one more time"</i>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=100&section=footer)
