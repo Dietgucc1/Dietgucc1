@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Dietgucc1&color=00ff88&style=flat-square&label=Profile+Views)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast;Open+to+Junior+Security+Roles)](https://git.io/typing-svg)
 
 <br/>
