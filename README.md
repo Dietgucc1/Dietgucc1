@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%20%7C%20DFIR%20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
-
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%20%7C%20DFIR%20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
 
 <br/>
 
@@ -117,13 +117,11 @@ $ whoami
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=dark&title_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88&langs_count=6" alt="Top Languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dietgucc1&theme=dark&background=0d1117&border=00ff88&ring=00ff88&fire=7df9ff&currStreakLabel=00ff88" alt="GitHub Streak" />
-
 </div>
 
 ---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -133,6 +131,14 @@ $ whoami
   <img alt="github-snake"
        src="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
 </picture>
+
+<br/>
+
+<i>"A winner is a loser who tried for one more time"</i>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:16213e,100:0d0d0d&height=120&section=footer)
 
 ---
 
