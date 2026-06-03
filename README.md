@@ -2,11 +2,12 @@
 
 <div align="center">
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Dietgucc1&color=00ff88&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C4937A&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast;Open+to+Junior+Security+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast;Open+to+Junior+Security+Roles)](https://git.io/typing-svg)
 
 <br/>
-<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555)](https://linkedin.com/in/nuradlinauji)
 [![Discord](https://img.shields.io/badge/Discord-Dietgucc1-white?style=flat-square&logo=discord&logoColor=white&labelColor=555555)](https://discord.com/users/1293520192646811769)
 [![Email](https://img.shields.io/badge/Email-linaauji00%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&labelColor=555555)](mailto:linaauji00@gmail.com)
@@ -28,7 +29,7 @@ $ whoami
 - 🔐 Interested in web security, cryptography, AI, Forensics & Reverse Engineering
 - 🎯 Active on TryHackMe & HackTheBox
 - 📚 CompTIA Security+ certified · Currently pursuing CAI
-- 🚩 Active CTF Player — MCMC Cyber Forensics, 3108 Bahtera Siber **(Top 10)**, Girl in CTF,Hack10CTF,UMCSCTF
+- 🚩 Active CTF Player — MCMC Cyber Forensics, 3108 Bahtera Siber **(Top 10)**, Girl in CTF, Hack10CTF, UMCSCTF
 - 🎓 Bachelor of Computer Science (Hons) – Information Security & Assurance, **USIM**
 - 💡 Open to junior security / IT roles
 
@@ -114,15 +115,15 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dietgucc1&show_icons=true&theme=dark&title_color=C4937A&icon_color=C4937A&text_color=ffffff&bg_color=0d1117&border_color=C4937A&count_private=true" alt="Adlina's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dietgucc1&show_icons=true&theme=dark&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88&count_private=true" alt="Adlina's GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=dark&title_color=C4937A&text_color=ffffff&bg_color=0d1117&border_color=C4937A&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=dark&title_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88&langs_count=6" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dietgucc1&theme=dark&background=0d1117&border=C4937A&ring=C4937A&fire=00ff88&currStreakLabel=C4937A" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dietgucc1&theme=dark&background=0d1117&border=00ff88&ring=00ff88&fire=7df9ff&currStreakLabel=00ff88" alt="GitHub Streak" />
 
 </div>
 
@@ -144,20 +145,3 @@ $ whoami
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:16213e,100:0d0d0d&height=120&section=footer)
-
-
-
-<!--
-**Dietgucc1/Dietgucc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
