@@ -83,7 +83,7 @@ $ whoami
 | 3108 CTF, Bahtera Siber | — | **Top 10** 🏆 | Aug 2025 |
 | 5th Innovation Bank Challenge (IBC) | — | **Silver Award** 🥈 | Oct 2025 |
 | Girl in CTF | — | Participant | Oct 2024 |
-| AturKreatif CTF | USIM | Participant | Feb 2024 |
+| AturKreatif CTF | USIM | Challenge Maker | May 2026 |
 
 ---
 
