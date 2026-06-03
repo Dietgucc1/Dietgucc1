@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast;Open+to+Junior+Security+Roles)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555)](https://linkedin.com/in/nuradlinauji)
