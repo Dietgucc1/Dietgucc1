@@ -86,7 +86,7 @@ $ whoami
 | AturKreatif CTF | USIM | Challenge Maker | May 2026 |
 | UMCS CTF | USIM | Participant | May 2026 |
 | Hack10 CTF | USIM | Participant | May 2026 |
-| LigaCTF | USIM | Participant | May-June 2026 |
+| LigaCTF | USIM | In Progress | May-June 2026 |
 
 ---
 
