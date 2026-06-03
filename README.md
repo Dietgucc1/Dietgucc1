@@ -134,7 +134,6 @@ $ whoami
 
 <br/>
 
-<i>"A winner is a loser who tried for one more time"</i>
 
 </div>
 
