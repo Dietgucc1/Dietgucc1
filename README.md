@@ -84,6 +84,9 @@ $ whoami
 | 5th Innovation Bank Challenge (IBC) | — | **Silver Award** 🥈 | Oct 2025 |
 | Girl in CTF | — | Participant | Oct 2024 |
 | AturKreatif CTF | USIM | Challenge Maker | May 2026 |
+| UMCS CTF | USIM | Participant | May 2026 |
+| Hack10 CTF | USIM | Participant | May 2026 |
+| LigaCTF | USIM | Participant | May-June 2026 |
 
 ---
 
