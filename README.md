@@ -2,15 +2,14 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Dietgucc1&color=C4937A&style=flat-square&label=Profile+Views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C4937A&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast;Open+to+Junior+Security+Roles)](https://git.io/typing-svg)
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-C4937A?style=flat-square&logo=linkedin&logoColor=white&labelColor=5c3d2e)](https://linkedin.com/in/nuradlinauji)
-[![Discord](https://img.shields.io/badge/Discord-Dietgucc1-C4937A?style=flat-square&logo=discord&logoColor=white&labelColor=5c3d2e)](https://discord.com/users/1293520192646811769)
-[![Email](https://img.shields.io/badge/Email-linaauji00%40gmail.com-C4937A?style=flat-square&logo=gmail&logoColor=white&labelColor=5c3d2e)](mailto:linaauji00@gmail.com)
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555)](https://linkedin.com/in/nuradlinauji)
+[![Discord](https://img.shields.io/badge/Discord-Dietgucc1-white?style=flat-square&logo=discord&logoColor=white&labelColor=555555)](https://discord.com/users/1293520192646811769)
+[![Email](https://img.shields.io/badge/Email-linaauji00%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&labelColor=555555)](mailto:linaauji00@gmail.com)
 
 </div>
 
