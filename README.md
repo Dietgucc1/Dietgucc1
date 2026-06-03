@@ -1,7 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=200&section=header&text=Adlina%20Auji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Love%20to%20Learn&descAlignY=55&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%20%7C%20DFIR%20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dietgucc1&color=00ff88&style=flat-square)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&width=500&lines=Cybersecurity+Student;CTF+Player;Security+Analyst+Soon;DFIR+Enthusiast)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nuradlinauji-C4937A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuradlinauji)
 [![Discord](https://img.shields.io/badge/Discord-Dietgucc1-C4937A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1293520192646811769)
+[![Email](https://img.shields.io/badge/Email-linaauji00@gmail.com-C4937A?style=flat&logo=gmail&logoColor=white)](mailto:linaauji00@gmail.com)
 
 </div>
 
@@ -9,10 +16,20 @@
 
 ### 👩‍💻 About Me
 
-- 🔐 Interested in web security, cryptography, Artificial Intelligence, Forensics & Reverse Engineering 
-- 🎯 Active on TryHackMe & HackTheBox  
-- 📚 CompTIA Security+ certified · Currently pursuing CAI  
-- 💡 Open to junior security/ IT roles  
+```bash
+$ whoami
+> Nur Adlina Auji | Cybersecurity Student @ USIM
+> Focus  : Digital Forensics | Incident Response | Network Security
+> Status : Final Year | Internship ends Aug 2026
+> Goal   : Security Analyst
+```
+
+- 🔐 Interested in web security, cryptography, AI, Forensics & Reverse Engineering
+- 🎯 Active on TryHackMe & HackTheBox
+- 📚 CompTIA Security+ certified · Currently pursuing CAI
+- 🚩 Active CTF Player — MCMC Cyber Forensics, 3108 Bahtera Siber **(Top 10)**, Girl in CTF
+- 🎓 Bachelor of Computer Science (Hons) – Information Security & Assurance, **USIM**
+- 💡 Open to junior security / IT roles
 
 ---
 
@@ -27,8 +44,19 @@
 ### 🛠 Tools
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,vim,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,vim,digitalocean" />
 </p>
+
+---
+
+### 🔍 Cybersecurity Skills
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -39,7 +67,53 @@
 | ✅ Completed | Wireless Penetration Tester | 0day Academy | Feb 2026 |
 | ✅ Completed | CompTIA Security+ | CompTIA | Jan 2026 |
 | ✅ Completed | CCoE Cert — Career in Cybersecurity (Entry Level) | BlackBerry | May 2025 |
+| ✅ Completed | Introduction to Cryptography | — | Nov 2024 |
+| ✅ Completed | Introduction to Cloud Computing | — | May 2025 |
 | 🔄 In Progress | Certified Artificial Intelligence (CAI) | — | 2026 |
+
+---
+
+### 🚩 CTF & Competitions
+
+| Event | Organizer | Result | Year |
+|-------|-----------|--------|------|
+| Intervarsity Cyber Forensics Challenge | MCMC | Participant | Dec 2025 |
+| 3108 CTF, Bahtera Siber | — | **Top 10** 🏆 | Aug 2025 |
+| 5th Innovation Bank Challenge (IBC) | — | **Silver Award** 🥈 | Oct 2025 |
+| Girl in CTF | — | Participant | Oct 2024 |
+| AturKreatif CTF | USIM | Participant | Feb 2024 |
+
+---
+
+### 🔬 Featured Projects
+
+**🕸️ Malicious Dark Web Traffic Detection** *(FYP)*
+> Analyzed encrypted dark web network traffic using machine learning & deep learning to detect malicious patterns linked to darknet activities.
+> `Python` `Scikit-learn` `Deep Learning` `Network Forensics`
+
+**🧠 BrainGym — Online Tutor Platform**
+> Online tutoring platform with AI-based learning recommendations and CAPTCHA-style verification.
+> `Java` `SQL` `AI`
+
+**🅿️ Smart Parking System**
+> IoT-based smart parking system using Arduino with movement & distance sensors.
+> `Arduino` `IoT` `Embedded Systems`
+
+**📱 FSTLend — Equipment Borrowing App**
+> Mobile app to digitise equipment borrowing for FST students using Scrum methodology.
+> `Android Studio` `UI/UX` `Scrum`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Adlina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dietgucc1&show_icons=true&theme=dark&title_color=00ff88&icon_color=7df9ff&text_color=ffffff&bg_color=0d1117&border_color=00ff88)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=dark&title_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88)
+
+</div>
 
 ---
 
@@ -51,13 +125,14 @@
   <img alt="github-snake"
        src="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
 </picture>
+
 ---
 
 <div align="center">
   <i>"A winner is a loser who tried for one more time"</i>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=C4937A&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:16213e,100:0d0d0d&height=120&section=footer)
 
 
 <!--
