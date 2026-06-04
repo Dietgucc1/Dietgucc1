@@ -78,10 +78,10 @@ $ whoami
 
 | Event | Organizer | Result | Year |
 |-------|-----------|--------|------|
+| Girl in CTF | RE:UN10N,RE:HACK | Participant | Oct 2024 |
 | Intervarsity Cyber Forensics Challenge | MCMC | Participant | Dec 2025 |
 | 3108 CTF, Bahtera Siber | Bahtera Digital Technology | **Top 10** 🏆 | Aug 2025 |
 | 5th Innovation Bank Challenge (IBC) | PPPI USIM | **Silver Award** 🥈 | Oct 2025 |
-| Girl in CTF | RE:UN10N,RE:HACK | Participant | Oct 2024 |
 | AturKreatif CTF | USIM | Challenge Maker | May 2026 |
 | UMCS CTF | UM | Participant | May 2026 |
 | Hack10 CTF | UNITEN | Participant | May 2026 |
