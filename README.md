@@ -80,13 +80,13 @@ $ whoami
 | Event | Organizer | Result | Year |
 |-------|-----------|--------|------|
 | Intervarsity Cyber Forensics Challenge | MCMC | Participant | Dec 2025 |
-| 3108 CTF, Bahtera Siber | — | **Top 10** 🏆 | Aug 2025 |
-| 5th Innovation Bank Challenge (IBC) | — | **Silver Award** 🥈 | Oct 2025 |
-| Girl in CTF | — | Participant | Oct 2024 |
+| 3108 CTF, Bahtera Siber | Bahtera Digital Technology | **Top 10** 🏆 | Aug 2025 |
+| 5th Innovation Bank Challenge (IBC) | PPPI USIM | **Silver Award** 🥈 | Oct 2025 |
+| Girl in CTF | RE:UN10N,RE:HACK | Participant | Oct 2024 |
 | AturKreatif CTF | USIM | Challenge Maker | May 2026 |
-| UMCS CTF | USIM | Participant | May 2026 |
-| Hack10 CTF | USIM | Participant | May 2026 |
-| LigaCTF | USIM | In Progress | May-June 2026 |
+| UMCS CTF | UM | Participant | May 2026 |
+| Hack10 CTF | UNITEN | Participant | May 2026 |
+| LigaCTF | OWASPKL | In Progress | May-June 2026 |
 
 ---
 
