@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%20%7C%20%20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
 
 <br/>
 
@@ -34,7 +34,7 @@ $ whoami
 ### 🌐 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,bash,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,php,bash,java" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ $ whoami
 ### 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,vim,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,python,bash,docker,kali,notion,digitalocean" />
 </p>
 
 ---
@@ -55,7 +55,6 @@ $ whoami
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
