@@ -25,7 +25,7 @@ $ whoami
 - 🔐 Interested in web security, cryptography, AI, Forensics & Reverse Engineering
 - 🎯 Active on TryHackMe & HackTheBox
 - 📚 CompTIA Security+ certified · Currently pursuing CAI
-- 🚩 Active CTF Player — MCMC Cyber Forensics, 3108 Bahtera Siber **(Top 10)**, Girl in CTF, Hack10CTF, UMCSCTF
+- 🚩 Newbie on CTF— MCMC Cyber Forensics, 3108 Bahtera Siber **(Top 10)**, Girl in CTF, Hack10CTF, UMCSCTF
 - 🎓 Bachelor of Computer Science (Hons) – Information Security & Assurance, **USIM**
 - 💡 Open to junior security / IT roles
 
