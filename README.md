@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=250&section=header&text=Adlina%20Auji&fontSize=60&fontColor=00ff88&fontAlignY=40&desc=Cybersecurity%20%7C%20CTF%20Player&descAlignY=58&descColor=7df9ff&animation=twinkling)
 
 <br/>
 
