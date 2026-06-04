@@ -111,17 +111,6 @@ $ whoami
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dietgucc1&show_icons=true&theme=dark&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88&count_private=true" alt="Adlina's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dietgucc1&layout=compact&theme=dark&title_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=00ff88&langs_count=6" alt="Top Languages" />
-
-</div>
-
----
 
 <div align="center">
 
